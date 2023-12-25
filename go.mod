@@ -1,4 +1,4 @@
-module github.com/pandazxx/pitaya/v3
+module github.com/pandazxx/pitaya/v2
 
 go 1.20
 
